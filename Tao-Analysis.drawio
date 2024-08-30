@@ -1,6 +1,6 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.5 Chrome/126.0.6478.183 Electron/31.3.0 Safari/537.36" version="24.7.5">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.5 Chrome/126.0.6478.183 Electron/31.3.0 Safari/537.36" version="24.7.5">
   <diagram id="VTB3VfOLk1Pi009MlJo3" name="Page-1">
-    <mxGraphModel dx="2636" dy="485" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2880" dy="451" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="" parent="0" />
@@ -251,7 +251,7 @@
         <mxCell id="9szI25GNg8KeYRrrIIkh-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.527;entryY=-0.055;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Garamond;" parent="1" source="9szI25GNg8KeYRrrIIkh-6" target="9szI25GNg8KeYRrrIIkh-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-43" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Garamond;" edge="1" parent="1" source="c4-g_TUZqkZrB4LUwKxe-2" target="hOuXd42JfDo8-fssJ-RP-37">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-43" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Garamond;" parent="1" source="c4-g_TUZqkZrB4LUwKxe-2" target="hOuXd42JfDo8-fssJ-RP-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c4-g_TUZqkZrB4LUwKxe-2" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Section 2.1&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;The Peano Axioms&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Garamond;" parent="1" vertex="1">
@@ -363,59 +363,59 @@
         <mxCell id="CBVLK-WkIeFTfU5mRH9x-22" value="&lt;div&gt;&lt;div class=&quot;dark bg-gray-950 contain-inline-size rounded-md border-[0.5px] border-token-border-medium&quot;&gt;&lt;div class=&quot;overflow-y-auto p-4&quot; dir=&quot;ltr&quot;&gt;&lt;code class=&quot;!whitespace-pre hljs language-latex&quot;&gt;&lt;br&gt;&lt;/code&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Garamond;" parent="1" vertex="1">
           <mxGeometry x="1265" y="3727" width="18" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-37" value="&lt;b&gt;Axiom 2.1&lt;/b&gt;&lt;div&gt;0&amp;nbsp;∈&amp;nbsp;ℕ&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Garamond;" vertex="1" parent="1">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-37" value="&lt;b&gt;Axiom 2.1&lt;/b&gt;&lt;div&gt;0&amp;nbsp;∈&amp;nbsp;ℕ&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Garamond;" parent="1" vertex="1">
           <mxGeometry x="201" y="2109.5" width="70" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-38" value="&lt;b&gt;Axiom 2.2&lt;/b&gt;&lt;div&gt;𝑛 ∈&amp;nbsp;ℕ&amp;nbsp;⟹ 𝑛++ ∈&amp;nbsp;ℕ&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Garamond;" vertex="1" parent="1">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-38" value="&lt;b&gt;Axiom 2.2&lt;/b&gt;&lt;div&gt;𝑛 ∈&amp;nbsp;ℕ&amp;nbsp;⟹ 𝑛++ ∈&amp;nbsp;ℕ&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Garamond;" parent="1" vertex="1">
           <mxGeometry x="320" y="2107" width="119" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-39" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Axiom 2.3&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;∀𝑛&amp;nbsp;&lt;/span&gt;∈&amp;nbsp;ℕ, 𝑛++ ≠ 0&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Garamond;" vertex="1" parent="1">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-39" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Axiom 2.3&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;∀𝑛&amp;nbsp;&lt;/span&gt;∈&amp;nbsp;ℕ, 𝑛++ ≠ 0&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Garamond;" parent="1" vertex="1">
           <mxGeometry x="505" y="2107" width="104" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-40" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Axiom 2.4&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;𝑚, 𝑛 ∈&amp;nbsp;ℕ&lt;/span&gt;&amp;nbsp;and 𝑚&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;≠&amp;nbsp;&lt;/span&gt;𝑛&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;⟹&amp;nbsp;&lt;/span&gt;𝑚&lt;span style=&quot;background-color: initial;&quot;&gt;++&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;≠&amp;nbsp;&lt;/span&gt;𝑛&lt;span style=&quot;background-color: initial;&quot;&gt;++&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Garamond;" vertex="1" parent="1">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-40" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Axiom 2.4&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;𝑚, 𝑛 ∈&amp;nbsp;ℕ&lt;/span&gt;&amp;nbsp;and 𝑚&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;≠&amp;nbsp;&lt;/span&gt;𝑛&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;⟹&amp;nbsp;&lt;/span&gt;𝑚&lt;span style=&quot;background-color: initial;&quot;&gt;++&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;≠&amp;nbsp;&lt;/span&gt;𝑛&lt;span style=&quot;background-color: initial;&quot;&gt;++&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Garamond;" parent="1" vertex="1">
           <mxGeometry x="649" y="2107" width="204" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-41" value="&lt;div&gt;&lt;b&gt;Axiom 2.5&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Principle of Mathematical Induction&lt;/div&gt;&lt;div&gt;Let P(𝑛) be any property for 𝑛&amp;nbsp;∈&amp;nbsp;ℕ&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;P(0) ∧ (&lt;span style=&quot;background-color: initial;&quot;&gt;∀&lt;/span&gt;𝑛&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;∈ ℕ, P(&lt;/span&gt;𝑛&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;⟹ P(&lt;/span&gt;𝑛&lt;span style=&quot;background-color: initial;&quot;&gt;++))&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;⟹&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;∀&lt;/span&gt;𝑛&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;∈ ℕ,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;P(&lt;/span&gt;𝑛&lt;span style=&quot;background-color: initial;&quot;&gt;)&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Garamond;" vertex="1" parent="1">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-41" value="&lt;div&gt;&lt;b&gt;Axiom 2.5&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Principle of Mathematical Induction&lt;/div&gt;&lt;div&gt;Let P(𝑛) be any property for 𝑛&amp;nbsp;∈&amp;nbsp;ℕ&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;P(0) ∧ (&lt;span style=&quot;background-color: initial;&quot;&gt;∀&lt;/span&gt;𝑛&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;∈ ℕ, P(&lt;/span&gt;𝑛&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;⟹ P(&lt;/span&gt;𝑛&lt;span style=&quot;background-color: initial;&quot;&gt;++))&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;⟹&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;∀&lt;/span&gt;𝑛&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;∈ ℕ,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;P(&lt;/span&gt;𝑛&lt;span style=&quot;background-color: initial;&quot;&gt;)&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Garamond;" parent="1" vertex="1">
           <mxGeometry x="865" y="2107" width="280" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-89" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;spacing=2;fontFamily=Garamond;" vertex="1" parent="1">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-89" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;spacing=2;fontFamily=Garamond;" parent="1" vertex="1">
           <mxGeometry x="492" y="1196" width="257.14285714285666" height="91.57619047619013" as="geometry" />
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-90" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-89">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-90" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-89" vertex="1">
           <mxGeometry width="257.14285714285666" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-91" value="Statements" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-90">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-91" value="Statements" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-90" vertex="1">
           <mxGeometry width="71" height="25" as="geometry">
             <mxRectangle width="71" height="25" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-92" value="Reasons" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-90">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-92" value="Reasons" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-90" vertex="1">
           <mxGeometry x="71" width="186" height="25" as="geometry">
             <mxRectangle width="186" height="25" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-93" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-89">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-93" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-89" vertex="1">
           <mxGeometry y="25" width="257.14285714285666" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-94" value="0&amp;nbsp;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;∈&amp;nbsp;ℕ&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-93">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-94" value="0&amp;nbsp;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;∈&amp;nbsp;ℕ&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-93" vertex="1">
           <mxGeometry width="71" height="30" as="geometry">
             <mxRectangle width="71" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-95" value="&lt;font&gt;(Axiom 2.1) 0&amp;nbsp;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;∈&amp;nbsp;ℕ&lt;/span&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-93">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-95" value="&lt;font&gt;(Axiom 2.1) 0&amp;nbsp;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;∈&amp;nbsp;ℕ&lt;/span&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-93" vertex="1">
           <mxGeometry x="71" width="186" height="30" as="geometry">
             <mxRectangle width="186" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-96" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-89">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-96" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-89" vertex="1">
           <mxGeometry y="55" width="257.14285714285666" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-97" value="3&amp;nbsp;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;∈&amp;nbsp;ℕ&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-96">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-97" value="3&amp;nbsp;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;∈&amp;nbsp;ℕ&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-96" vertex="1">
           <mxGeometry width="71" height="37" as="geometry">
             <mxRectangle width="71" height="37" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-98" value="0&amp;nbsp;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;∈&amp;nbsp;ℕ&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;⟹ 1&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;∈&amp;nbsp;ℕ&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;⟹ 2&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;∈&amp;nbsp;ℕ&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;⟹ 3&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;∈&amp;nbsp;ℕ&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;(Axiom 2.2)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;𝑛&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial;&quot;&gt;∈&amp;nbsp;ℕ&amp;nbsp;⟹&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;𝑛&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial;&quot;&gt;++ ∈&amp;nbsp;ℕ&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-96">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-98" value="0&amp;nbsp;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;∈&amp;nbsp;ℕ&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;⟹ 1&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;∈&amp;nbsp;ℕ&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;⟹ 2&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;∈&amp;nbsp;ℕ&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;⟹ 3&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;∈&amp;nbsp;ℕ&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;(Axiom 2.2)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;𝑛&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial;&quot;&gt;∈&amp;nbsp;ℕ&amp;nbsp;⟹&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;𝑛&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial;&quot;&gt;++ ∈&amp;nbsp;ℕ&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-96" vertex="1">
           <mxGeometry x="71" width="186" height="37" as="geometry">
             <mxRectangle width="186" height="37" as="alternateBounds" />
           </mxGeometry>
@@ -423,12 +423,6 @@
         <mxCell id="R7qa3hSG3WKsnmx5klRy-45" value="Proofs and Exercises" style="" parent="0" />
         <mxCell id="R7qa3hSG3WKsnmx5klRy-48" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Garamond;" parent="R7qa3hSG3WKsnmx5klRy-45" vertex="1">
           <mxGeometry x="781" y="1382" width="18" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="c4-g_TUZqkZrB4LUwKxe-37" value="&lt;div&gt;$$\begin{array}{|c|c|}\hline \textbf{Statements} &amp;amp; \textbf{Reasons} \\ \hline P(n) = n + 0 = n &amp;amp; \\ \hline P(0) \text{ is true.} &amp;amp; \text{Definition 2.2.1} \\ \hline P(n) \implies P(n++) \text{ is true.} &amp;amp; (n++)+0 := (n+0)++ \\ \hline &amp;amp; (n+0)++ = n++ \\ \hline P(n) \text{ is true for all } &amp;amp; \text{Axiom 2.5} \\ \hline \mathbb{N} \text{ number } n &amp;amp; \\ \hline\end{array}$$&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Garamond;" parent="R7qa3hSG3WKsnmx5klRy-45" vertex="1">
-          <mxGeometry x="-828" y="2675" width="1773" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="c4-g_TUZqkZrB4LUwKxe-39" value="&lt;div&gt;$$\begin{array}{|c|c|}\hline \textbf{Statements} &amp;amp; \textbf{Reasons} \\ \hline P(n) = n + (m++)=(n+m)++ &amp;amp; \\ \hline 0+(m++)=m++ &amp;amp; \text{Definition 2.2.1} \\ \hline (0+m)++=m++ &amp;amp;&amp;nbsp; \\ \hline&amp;nbsp; P(0) \text{ is true} &amp;amp; \text{Transitive Prop.}\\ \hline n+(m++)=(n+m)++ &amp;amp; \text{Assume } P(n) \\ \hline&amp;nbsp; (n++)+(m++)=(n+(m++))++ &amp;amp; \text{Definition 2.2.1} \\ \hline = ((n+m)++)++ &amp;amp; P(n) \\ \hline ((n++) + m)++ = ((n+m)++)++ &amp;amp; \text{Definition 2.2.1} \\ \hline P(n++) \text{ is true.} &amp;amp; \text{Transitive Prop.} \\ \hline P(n) \text { is true for all } \mathbb{N} &amp;amp; \text{Axiom 2.5}\\ \hline\end{array}$$&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Garamond;" parent="R7qa3hSG3WKsnmx5klRy-45" vertex="1">
-          <mxGeometry x="-912" y="2716" width="2906" height="41" as="geometry" />
         </mxCell>
         <mxCell id="c4-g_TUZqkZrB4LUwKxe-44" value="$$\begin{array}{|c|c|}\hline \textbf{Statements} &amp;amp; \textbf{Reasons} \\ \hline P(n)=n+m=m+n &amp;amp; \\ \hline 0+m = m &amp;amp; \text{Definition 2.2.1} \\ \hline m+0 = m &amp;amp; \text{Lemma 2.2.2} \\ \hline P(0) \text{ is true.} &amp;amp; \text{Transitive Prop.} \\ \hline n+m = m+n &amp;amp; \text{Assume } P(n) \\ \hline (n++)+m = (n+m)++ &amp;amp; \text{Definition 2.2.1} \\ \hline m+(n++) = (m+n)++ &amp;amp; \text{Lemma 2.2.3} \\ \hline = (n+m)++ &amp;amp; P(n) \\ \hline P(n++) \text{ is true.} &amp;amp; \text{Transitive Prop.} \\ \hline P(n) \text{ is true for all } \mathbb{N} &amp;amp; \text{Axiom 2.5} \\ \hline \end{array}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Garamond;" parent="R7qa3hSG3WKsnmx5klRy-45" vertex="1">
           <mxGeometry x="-1396" y="3161" width="2736" height="26" as="geometry" />
@@ -531,244 +525,276 @@
             <mxRectangle width="186" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-46" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;spacing=2;fontFamily=Garamond;" vertex="1" parent="R7qa3hSG3WKsnmx5klRy-45">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-46" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;spacing=2;fontFamily=Garamond;" parent="R7qa3hSG3WKsnmx5klRy-45" vertex="1">
           <mxGeometry x="928" y="1180" width="211.64285714285666" height="193.52619047618953" as="geometry" />
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-47" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-46">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-47" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-46" vertex="1">
           <mxGeometry width="211.64285714285666" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-48" value="Statements" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-47">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-48" value="Statements" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-47" vertex="1">
           <mxGeometry width="102" height="20" as="geometry">
             <mxRectangle width="102" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-49" value="Reasons" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-47">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-49" value="Reasons" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-47" vertex="1">
           <mxGeometry x="102" width="110" height="20" as="geometry">
             <mxRectangle width="110" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-50" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-46">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-50" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-46" vertex="1">
           <mxGeometry y="20" width="211.64285714285666" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-51" value="6 = 2 ⟹ 5++ = 1++" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-50">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-51" value="6 = 2 ⟹ 5++ = 1++" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-50" vertex="1">
           <mxGeometry width="102" height="20" as="geometry">
             <mxRectangle width="102" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-52" value="Def. of 2 and 6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-50">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-52" value="Def. of 2 and 6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-50" vertex="1">
           <mxGeometry x="102" width="110" height="20" as="geometry">
             <mxRectangle width="110" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-53" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-46">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-53" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-46" vertex="1">
           <mxGeometry y="40" width="211.64285714285666" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-54" value="5++ = 1++ ⟹ 5 = 1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-53">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-54" value="5++ = 1++ ⟹ 5 = 1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-53" vertex="1">
           <mxGeometry width="102" height="25" as="geometry">
             <mxRectangle width="102" height="25" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-55" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;(Axiom 2.4)&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;𝑚 ≠ 𝑛 ⟹&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;𝑚++ ≠ 𝑛++&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-53">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-55" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;(Axiom 2.4)&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;𝑚 ≠ 𝑛 ⟹&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;𝑚++ ≠ 𝑛++&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-53" vertex="1">
           <mxGeometry x="102" width="110" height="25" as="geometry">
             <mxRectangle width="110" height="25" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-56" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-46">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-56" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-46" vertex="1">
           <mxGeometry y="65" width="211.64285714285666" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-57" value="5 = 1 ⟹ 4++ = 0++" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-56">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-57" value="5 = 1 ⟹ 4++ = 0++" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-56" vertex="1">
           <mxGeometry width="102" height="20" as="geometry">
             <mxRectangle width="102" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-58" value="Def. of 1 and 5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-56">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-58" value="Def. of 1 and 5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-56" vertex="1">
           <mxGeometry x="102" width="110" height="20" as="geometry">
             <mxRectangle width="110" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-59" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-46">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-59" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-46" vertex="1">
           <mxGeometry y="85" width="211.64285714285666" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-60" value="4++ = 0++ ⟹ 4 = 0" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-59">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-60" value="4++ = 0++ ⟹ 4 = 0" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-59" vertex="1">
           <mxGeometry width="102" height="28" as="geometry">
             <mxRectangle width="102" height="28" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-61" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;(Axiom 2.4)&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;𝑚 ≠ 𝑛&amp;nbsp;⟹&lt;span style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp;𝑚++ ≠ 𝑛++&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-59">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-61" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;(Axiom 2.4)&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;𝑚 ≠ 𝑛&amp;nbsp;⟹&lt;span style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp;𝑚++ ≠ 𝑛++&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-59" vertex="1">
           <mxGeometry x="102" width="110" height="28" as="geometry">
             <mxRectangle width="110" height="28" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-62" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-46">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-62" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-46" vertex="1">
           <mxGeometry y="113" width="211.64285714285666" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-63" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;∴ 6 = 2 ⟹ 4 = 0&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-62">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-63" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;∴ 6 = 2 ⟹ 4 = 0&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-62" vertex="1">
           <mxGeometry width="102" height="20" as="geometry">
             <mxRectangle width="102" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-64" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 9px;&quot;&gt;Trans. Prop. of ⟹&lt;/span&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-62">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-64" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 9px;&quot;&gt;Trans. Prop. of ⟹&lt;/span&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-62" vertex="1">
           <mxGeometry x="102" width="110" height="20" as="geometry">
             <mxRectangle width="110" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-65" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-46">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-65" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-46" vertex="1">
           <mxGeometry y="133" width="211.64285714285666" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-66" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;4 ≠ 0 ⟹ 6 ≠ 2&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-65">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-66" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;4 ≠ 0 ⟹ 6 ≠ 2&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-65" vertex="1">
           <mxGeometry width="102" height="20" as="geometry">
             <mxRectangle width="102" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-67" value="Contrapositive" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-65">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-67" value="Contrapositive" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-65" vertex="1">
           <mxGeometry x="102" width="110" height="20" as="geometry">
             <mxRectangle width="110" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-68" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-46">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-68" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-46" vertex="1">
           <mxGeometry y="153" width="211.64285714285666" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-69" value="4 ≠ 0&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-68">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-69" value="4 ≠ 0&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-68" vertex="1">
           <mxGeometry width="102" height="20" as="geometry">
             <mxRectangle width="102" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-70" value="Check Prop. 2.1.6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-68">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-70" value="Check Prop. 2.1.6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-68" vertex="1">
           <mxGeometry x="102" width="110" height="20" as="geometry">
             <mxRectangle width="110" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-71" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-46">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-71" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-46" vertex="1">
           <mxGeometry y="173" width="211.64285714285666" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-72" value="∴ 6 ≠ 2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-71">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-72" value="∴ 6 ≠ 2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-71" vertex="1">
           <mxGeometry width="102" height="21" as="geometry">
             <mxRectangle width="102" height="21" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-73" value="Modus Ponens" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-71">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-73" value="Modus Ponens" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-71" vertex="1">
           <mxGeometry x="102" width="110" height="21" as="geometry">
             <mxRectangle width="110" height="21" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-120" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=8;spacing=2;fontFamily=Garamond;" vertex="1" parent="R7qa3hSG3WKsnmx5klRy-45">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-120" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=8;spacing=2;fontFamily=Garamond;" parent="R7qa3hSG3WKsnmx5klRy-45" vertex="1">
           <mxGeometry x="463" y="2314" width="310.30952380952317" height="223.40952380952638" as="geometry" />
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-121" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-120">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-121" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-120" vertex="1">
           <mxGeometry width="310.30952380952317" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-122" value="Statements" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-121">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-122" value="Statements" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-121" vertex="1">
           <mxGeometry width="139" height="22" as="geometry">
             <mxRectangle width="139" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-123" value="Reasons" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-121">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-123" value="Reasons" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-121" vertex="1">
           <mxGeometry x="139" width="171" height="22" as="geometry">
             <mxRectangle width="171" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-124" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-120">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-124" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-120" vertex="1">
           <mxGeometry y="22" width="310.30952380952317" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-125" value="Given 𝑚 ∈ ℕ,&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;background-color: initial; text-wrap: nowrap; font-size: 9px;&quot;&gt;∀&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-wrap: nowrap; font-size: 9px;&quot;&gt;𝑛&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-wrap: nowrap; font-size: 9px;&quot;&gt;&amp;nbsp;∈ ℕ,&amp;nbsp;&lt;/span&gt;P(𝑛) := 𝑛 + 𝑚 ∈ ℕ&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-124">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-125" value="Given 𝑚 ∈ ℕ,&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;background-color: initial; text-wrap: nowrap; font-size: 9px;&quot;&gt;∀&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-wrap: nowrap; font-size: 9px;&quot;&gt;𝑛&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-wrap: nowrap; font-size: 9px;&quot;&gt;&amp;nbsp;∈ ℕ,&amp;nbsp;&lt;/span&gt;P(𝑛) := 𝑛 + 𝑚 ∈ ℕ&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-124" vertex="1">
           <mxGeometry width="139" height="33" as="geometry">
             <mxRectangle width="139" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-126" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-124">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-126" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-124" vertex="1">
           <mxGeometry x="139" width="171" height="33" as="geometry">
             <mxRectangle width="171" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-127" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-120">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-127" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-120" vertex="1">
           <mxGeometry y="55" width="310.30952380952317" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-128" value="P(0)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-127">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-128" value="P(0)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-127" vertex="1">
           <mxGeometry width="139" height="25" as="geometry">
             <mxRectangle width="139" height="25" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-129" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;(Def. 2.2.1)&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 9px;&quot;&gt;0 + 𝑚 = 𝑚&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;(Given) m ∈ ℕ&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-127">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-129" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;(Def. 2.2.1)&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 9px;&quot;&gt;0 + 𝑚 = 𝑚&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;(Given) m ∈ ℕ&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-127" vertex="1">
           <mxGeometry x="139" width="171" height="25" as="geometry">
             <mxRectangle width="171" height="25" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-130" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-120">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-130" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-120" vertex="1">
           <mxGeometry y="80" width="310.30952380952317" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-131" value="&lt;span style=&quot;text-wrap: nowrap; background-color: initial; font-size: 9px;&quot;&gt;∀&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; font-size: 9px;&quot;&gt;𝑛&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial; font-size: 9px;&quot;&gt;&amp;nbsp;∈ ℕ,&amp;nbsp;&lt;/span&gt;P(𝑛) ⟹ 𝑛 + 𝑚 ∈ ℕ" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-130">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-131" value="&lt;span style=&quot;text-wrap: nowrap; background-color: initial; font-size: 9px;&quot;&gt;∀&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; font-size: 9px;&quot;&gt;𝑛&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial; font-size: 9px;&quot;&gt;&amp;nbsp;∈ ℕ,&amp;nbsp;&lt;/span&gt;P(𝑛) ⟹ 𝑛 + 𝑚 ∈ ℕ" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-130" vertex="1">
           <mxGeometry width="139" height="23" as="geometry">
             <mxRectangle width="139" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-132" value="Definition of P(𝑛)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-130">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-132" value="Definition of P(𝑛)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-130" vertex="1">
           <mxGeometry x="139" width="171" height="23" as="geometry">
             <mxRectangle width="171" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-133" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-120">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-133" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-120" vertex="1">
           <mxGeometry y="103" width="310.30952380952317" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-134" value="⟹ (𝑛 + 𝑚)++ ∈ ℕ&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-133">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-134" value="⟹ (𝑛 + 𝑚)++ ∈ ℕ&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-133" vertex="1">
           <mxGeometry width="139" height="20" as="geometry">
             <mxRectangle width="139" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-135" value="(Axiom 2.2)&amp;nbsp;&lt;span style=&quot;text-wrap: nowrap; font-size: 9px;&quot;&gt;𝑛 ∈&amp;nbsp;ℕ&amp;nbsp;⟹ 𝑛++ ∈&amp;nbsp;ℕ&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-133">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-135" value="(Axiom 2.2)&amp;nbsp;&lt;span style=&quot;text-wrap: nowrap; font-size: 9px;&quot;&gt;𝑛 ∈&amp;nbsp;ℕ&amp;nbsp;⟹ 𝑛++ ∈&amp;nbsp;ℕ&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-133" vertex="1">
           <mxGeometry x="139" width="171" height="20" as="geometry">
             <mxRectangle width="171" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-136" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-120">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-136" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-120" vertex="1">
           <mxGeometry y="123" width="310.30952380952317" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-137" value="⟹&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 9px;&quot;&gt;(𝑛++) + 𝑚 ∈ ℕ&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-136">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-137" value="⟹&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 9px;&quot;&gt;(𝑛++) + 𝑚 ∈ ℕ&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-136" vertex="1">
           <mxGeometry width="139" height="20" as="geometry">
             <mxRectangle width="139" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-138" value="(Def. 2.2.1) (𝑛++) + 𝑚 = (𝑛 + 𝑚)++" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-136">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-138" value="(Def. 2.2.1) (𝑛++) + 𝑚 = (𝑛 + 𝑚)++" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-136" vertex="1">
           <mxGeometry x="139" width="171" height="20" as="geometry">
             <mxRectangle width="171" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-139" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-120">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-139" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-120" vertex="1">
           <mxGeometry y="143" width="310.30952380952317" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-140" value="⟹ P(𝑛++)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-139">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-140" value="⟹ P(𝑛++)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-139" vertex="1">
           <mxGeometry width="139" height="20" as="geometry">
             <mxRectangle width="139" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-141" value="Definition of P(𝑛)&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-139">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-141" value="Definition of P(𝑛)&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-139" vertex="1">
           <mxGeometry x="139" width="171" height="20" as="geometry">
             <mxRectangle width="171" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-142" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-120">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-142" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-120" vertex="1">
           <mxGeometry y="163" width="310.30952380952317" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-143" value="&lt;span style=&quot;text-wrap: nowrap; background-color: initial; font-size: 9px;&quot;&gt;∀&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; font-size: 9px;&quot;&gt;𝑛&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial; font-size: 9px;&quot;&gt;&amp;nbsp;∈ ℕ,&amp;nbsp;&lt;/span&gt;P(𝑛) ⟹ P(𝑛++)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-142">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-143" value="&lt;span style=&quot;text-wrap: nowrap; background-color: initial; font-size: 9px;&quot;&gt;∀&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; font-size: 9px;&quot;&gt;𝑛&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial; font-size: 9px;&quot;&gt;&amp;nbsp;∈ ℕ,&amp;nbsp;&lt;/span&gt;P(𝑛) ⟹ P(𝑛++)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-142" vertex="1">
           <mxGeometry width="139" height="20" as="geometry">
             <mxRectangle width="139" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-144" value="Trans. Prop. of ⟹&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-142">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-144" value="Trans. Prop. of ⟹&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-142" vertex="1">
           <mxGeometry x="139" width="171" height="20" as="geometry">
             <mxRectangle width="171" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-145" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-120">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-145" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-120" vertex="1">
           <mxGeometry y="183" width="310.30952380952317" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-146" value="∀𝑛 ∈ ℕ, P(𝑛)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-145">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-146" value="∀𝑛 ∈ ℕ, P(𝑛)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-145" vertex="1">
           <mxGeometry width="139" height="40" as="geometry">
             <mxRectangle width="139" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOuXd42JfDo8-fssJ-RP-147" value="(Induction)&amp;nbsp;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;text-wrap: nowrap; font-size: 9px;&quot;&gt;P(0) ∧ (&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial; font-size: 9px;&quot;&gt;∀&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; font-size: 9px;&quot;&gt;𝑛&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial; font-size: 9px;&quot;&gt;&amp;nbsp;∈ ℕ, P(&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; font-size: 9px;&quot;&gt;𝑛&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial; font-size: 9px;&quot;&gt;)&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial; font-size: 9px;&quot;&gt;&amp;nbsp;⟹ P(&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; font-size: 9px;&quot;&gt;𝑛&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial; font-size: 9px;&quot;&gt;++))&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial; font-size: 9px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial; font-size: 9px;&quot;&gt;⟹&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial; font-size: 9px;&quot;&gt;∀&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; font-size: 9px;&quot;&gt;𝑛&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial; font-size: 9px;&quot;&gt;&amp;nbsp;∈ ℕ,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial; font-size: 9px;&quot;&gt;P(&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; font-size: 9px;&quot;&gt;𝑛&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial; font-size: 9px;&quot;&gt;)&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" vertex="1" parent="hOuXd42JfDo8-fssJ-RP-145">
+        <mxCell id="hOuXd42JfDo8-fssJ-RP-147" value="(Induction)&amp;nbsp;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;text-wrap: nowrap; font-size: 9px;&quot;&gt;P(0) ∧ (&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial; font-size: 9px;&quot;&gt;∀&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; font-size: 9px;&quot;&gt;𝑛&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial; font-size: 9px;&quot;&gt;&amp;nbsp;∈ ℕ, P(&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; font-size: 9px;&quot;&gt;𝑛&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial; font-size: 9px;&quot;&gt;)&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial; font-size: 9px;&quot;&gt;&amp;nbsp;⟹ P(&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; font-size: 9px;&quot;&gt;𝑛&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial; font-size: 9px;&quot;&gt;++))&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial; font-size: 9px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial; font-size: 9px;&quot;&gt;⟹&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial; font-size: 9px;&quot;&gt;∀&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; font-size: 9px;&quot;&gt;𝑛&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial; font-size: 9px;&quot;&gt;&amp;nbsp;∈ ℕ,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial; font-size: 9px;&quot;&gt;P(&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; font-size: 9px;&quot;&gt;𝑛&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial; font-size: 9px;&quot;&gt;)&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontFamily=Garamond;" parent="hOuXd42JfDo8-fssJ-RP-145" vertex="1">
           <mxGeometry x="139" width="171" height="40" as="geometry">
             <mxRectangle width="171" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="44RY-343zqrp0LJ0pFrU-14" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=10;" vertex="1" parent="R7qa3hSG3WKsnmx5klRy-45">
+          <mxGeometry x="-79.44999999999999" y="2601" width="274.96726663523714" height="152.51706458782564" as="geometry" />
+        </mxCell>
+        <mxCell id="44RY-343zqrp0LJ0pFrU-15" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="44RY-343zqrp0LJ0pFrU-14">
+          <mxGeometry width="274.96726663523714" height="153" as="geometry" />
+        </mxCell>
+        <mxCell id="44RY-343zqrp0LJ0pFrU-16" value="1) ∀𝑛 ∈ ℕ, P(𝑛) := 𝑛 + 0 = 𝑛&lt;div&gt;2) 0 + 0 = 0&lt;/div&gt;&lt;div&gt;3) P(0)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4) (𝑛++) + 0 = (𝑛 + 0)++&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;5) ∀𝑛 ∈ ℕ, P(𝑛) ⟹ 𝑛 + 0 = 𝑛&amp;nbsp;&lt;/div&gt;&lt;div&gt;6) ⟹&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;(𝑛++) + 0 = 𝑛++&lt;/span&gt;&lt;/div&gt;&lt;div&gt;7) ⟹ P(𝑛++)&lt;/div&gt;&lt;div&gt;8) ∀𝑛 ∈ ℕ, P(𝑛) ⟹ P(𝑛++)&lt;/div&gt;&lt;div&gt;9)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;∀𝑛 ∈ ℕ, P(𝑛)&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;fontFamily=Garamond;align=left;verticalAlign=top;" vertex="1" parent="44RY-343zqrp0LJ0pFrU-15">
+          <mxGeometry width="128" height="153" as="geometry">
+            <mxRectangle width="128" height="153" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="44RY-343zqrp0LJ0pFrU-17" value="1) Given&lt;div&gt;2) (Def 2.2.1) 0 + 𝑚 := 𝑚&lt;/div&gt;&lt;div&gt;3) Def. of P(𝑛 = 0)&amp;nbsp;&lt;/div&gt;&lt;div&gt;4)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;(Def 2.2.1)&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; (𝑛++) + m := (𝑛 + 𝑚)++&lt;/div&gt;&lt;div&gt;5) Def. of P(𝑛)&lt;/div&gt;&lt;div&gt;6) Substitution (Def of ++)&lt;/div&gt;&lt;div&gt;7) Def. of P(𝑛)&lt;/div&gt;&lt;div&gt;8) Trans. Prop. of ⟹&lt;/div&gt;&lt;div&gt;9) Induction&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; P(0) ∧ (∀𝑛 ∈ ℕ, P(𝑛) ⟹ P(𝑛++))&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; ⟹ ∀𝑛 ∈ ℕ, P(𝑛)&amp;nbsp;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;fontFamily=Garamond;verticalAlign=top;align=left;" vertex="1" parent="44RY-343zqrp0LJ0pFrU-15">
+          <mxGeometry x="128" width="147" height="153" as="geometry">
+            <mxRectangle width="147" height="153" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="44RY-343zqrp0LJ0pFrU-18" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=10;" vertex="1" parent="R7qa3hSG3WKsnmx5klRy-45">
+          <mxGeometry x="397" y="2601" width="325.58818359374936" height="222.06852774784784" as="geometry" />
+        </mxCell>
+        <mxCell id="44RY-343zqrp0LJ0pFrU-19" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="44RY-343zqrp0LJ0pFrU-18">
+          <mxGeometry width="325.58818359374936" height="222" as="geometry" />
+        </mxCell>
+        <mxCell id="44RY-343zqrp0LJ0pFrU-20" value="1) ∀𝑛 ∈ ℕ, P(𝑛) :=&amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; 𝑛 + (𝑚++) = (𝑛 + 𝑚)++&lt;div&gt;2)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;0 + (𝑚++) = 𝑚++&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;0 + (𝑚++) = (0 + 𝑚)++&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4) P(0)&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(𝑛++) + (𝑚++) = (𝑛 + (𝑚++))++&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;6)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;∀𝑛 ∈ ℕ, P(𝑛) ⟹&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&amp;nbsp; &amp;nbsp; 𝑛 + (𝑚++) = (𝑛 + 𝑚)++&lt;div&gt;7) ⟹&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; (𝑛++) + (𝑚++)&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;= ((𝑛 + 𝑚)++)++&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;8) ⟹&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; (𝑛++) + (𝑚++) = ((𝑛++) + 𝑚))++&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;9) ⟹ P(𝑛++)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;10) ∀𝑛 ∈ ℕ, P(𝑛) ⟹ P(𝑛++)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;11) ∀𝑛 ∈ ℕ, P(𝑛)&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;fontFamily=Garamond;align=left;verticalAlign=top;" vertex="1" parent="44RY-343zqrp0LJ0pFrU-19">
+          <mxGeometry width="164" height="222" as="geometry">
+            <mxRectangle width="164" height="222" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="44RY-343zqrp0LJ0pFrU-21" value="1) Given&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(Def 2.2.1)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;0 + 𝑚 := 𝑚&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3) (Def 2.2.1)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;0 + 𝑚 := 𝑚&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4) Def. of P(𝑛 = 0)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;5) (Def 2.2.1)&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; (𝑛++) + 𝑚 := (𝑛 + 𝑚)++&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;6) Def. of P(𝑛)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;7) substitution (Def. of ++)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;8)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;(Def 2.2.1)&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; (𝑛++) + 𝑚 := (𝑛 + 𝑚)++&lt;/div&gt;&lt;div&gt;9) Def. of P(𝑛)&lt;/div&gt;&lt;div&gt;10) Tran. Prop. of ⟹&lt;/div&gt;&lt;div&gt;11) Induction&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; P(0) ∧ (∀𝑛 ∈ ℕ, P(𝑛) ⟹ P(𝑛++))&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; ⟹ ∀𝑛 ∈ ℕ, P(𝑛)&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;fontFamily=Garamond;verticalAlign=top;align=left;" vertex="1" parent="44RY-343zqrp0LJ0pFrU-19">
+          <mxGeometry x="164" width="162" height="222" as="geometry">
+            <mxRectangle width="162" height="222" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9szI25GNg8KeYRrrIIkh-13" value="Comment" style="" parent="0" />
